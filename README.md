@@ -4,7 +4,7 @@ Content from the [Beautiful Rising project](https://beautifulrising.org/) -- a c
 
 If you would like to include Beautiful Rising content in your own project, app, or website, the full content of the project is available programatically via a standard HTTP application programming interface (API). Details are below. If you have questions, please [open an issue on this repository](https://github.com/BeautifulTrouble/api-docs/issues) or contact us through the [Beautiful Trouble website](http://beautifultrouble.org/).
 
-## Beautiful Rising v1.0
+## Beautiful Rising v1
 
 The Beautiful Rising API is avaialable at https://api.beautifulrising.org/api/
 
