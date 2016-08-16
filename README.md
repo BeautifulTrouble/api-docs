@@ -10,7 +10,7 @@ The Beautiful Rising API is avaialable at https://api.beautifulrising.org/api/
 
 The API is versioned, so request will look like https://api.beautifulrising.org/api/v1/v1
 
-The API currently returns JSON.
+The API currently returns JSON. Several object properties will also contain [Markdown](http://daringfireball.net/projects/markdown/) and it is left to the client to decide how to, or how not to, render this.
 
 ### Endpoints
 
