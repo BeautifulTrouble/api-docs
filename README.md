@@ -1,6 +1,6 @@
 # API documentation for the various Beautiful projects
 
-Content from the [Beautiful Rising projec](https://beautifulrising.org/)t -- a collaboration between Beautiful Trouble, Action Aid Denmark, and authors around the globe -- is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+Content from the [Beautiful Rising project](https://beautifulrising.org/) -- a collaboration between Beautiful Trouble, Action Aid Denmark, and authors around the globe -- is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
 If you would like to include Beautiful Rising content in your own project, app, or website, the full content of the project is available programatically via a standard HTTP application programming interface (API). Details are below. If you have questions, please [open an issue on this repository](https://github.com/BeautifulTrouble/api-docs/issues) or contact us through the [Beautiful Trouble website](http://beautifultrouble.org/).
 
