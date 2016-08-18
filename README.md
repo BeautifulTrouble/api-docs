@@ -16,11 +16,13 @@ The API currently returns JSON. Several object properties will also contain [Mar
 
 **Module endpoints**
 
-* `/methodologies` - Returns all tactic objects
+* `/stories` - Returns all story objects
+
+* `/methodologies` - Returns all methodology objects
 
 * `/principles` - Returns all principle objects
 
-* `/stories` - Returns all story objects
+* `/theories` - Returns all theory objects
 
 * `/tactics` - Returns all tactic objects
 
@@ -36,6 +38,7 @@ _The avaialble module types are:_
 * `/principle`
 * `/story`
 * `/tactic`
+* `/theory`
 * `/person`
 
 
