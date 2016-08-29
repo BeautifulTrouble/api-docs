@@ -44,11 +44,10 @@ _The avaialble module types are:_
 
 **Utility endpoints**
 
-* `/all` - Return all objects
-
-* `/config` - Return all configuration objects
-
-* `/texts` - Return all text objects, e.g., static pages, user interface text, etc. A single text object can be retrieved with `/text/[text-slug]`
+* `/all` - Returns all objects
+* `/modules` - Returns all "module" objects 
+* `/config` - Returns all configuration objects
+* `/texts` - Returns all text objects, e.g., static pages, user interface text, etc. A single text object can be retrieved with `/text/[text-slug]`
 
 
 
