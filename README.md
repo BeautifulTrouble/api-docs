@@ -6,9 +6,9 @@ If you would like to include Beautiful Rising content in your own project, app, 
 
 ## Beautiful Rising v1
 
-The Beautiful Rising API is avaialable at https://api.beautifulrising.org/api/
+The Beautiful Rising API is available at https://api.beautifulrising.org/api/
 
-The API is versioned, so request will look like https://api.beautifulrising.org/api/v1/v1
+The API is versioned, so request will look like https://api.beautifulrising.org/api/v1/
 
 The API currently returns JSON. Several object properties will also contain [Markdown](http://daringfireball.net/projects/markdown/) and it is left to the client to decide how to, or how not to, render this.
 
@@ -46,8 +46,8 @@ _The avaialble module types are:_
 
 * `/all` - Returns all objects
 * `/modules` - Returns all "module" objects 
-* `/config` - Returns all configuration objects
 * `/texts` - Returns all text objects, e.g., static pages, user interface text, etc. A single text object can be retrieved with `/text/[text-slug]`
+* `/config` - Returns a configuration object containing miscellaneous esoterica 
 
 
 
